@@ -20,7 +20,7 @@ class Pendulum {
       ellipseMode(CENTER);
       rotate(angle);
       noStroke();
-      fill(255,215,0);
+      fill("yellow");
       ellipse(0, 0,60,60);
       pop();
     }
