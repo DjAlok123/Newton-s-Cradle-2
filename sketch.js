@@ -48,7 +48,7 @@ function setup() {
 
 
 function draw() {
-  background("lightblue")
+  background("purple")
   rectMode(CENTER);
   
   pendulum1.display();
